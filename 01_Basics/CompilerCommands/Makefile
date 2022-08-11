@@ -14,3 +14,4 @@ compile:
 
 build:
 	g++ $(FLAGS) Functions2.o -o Functions2
+
